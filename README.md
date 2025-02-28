@@ -23,4 +23,3 @@ git add .
 git commit -m "Mensagem'
 ```
 **Atenção!** Todo commit deve ter uma descrição (Obrigatório)
-
